@@ -119,15 +119,6 @@ Depuis l'interface graphique, avant de lancer un scrutin :
 
 ---
 
-## 👥 Auteurs
-
-| Nom | Rôle |
-|---|---|
-| **Mahaman Malam Issa Abdoul-Nasser** | Développement & conception |
-| **Moussa Halido Abdourahmane** | Développement & conception |
-
----
-
 ## 📄 Licence
 
 Distribué sous licence MIT. Voir `LICENSE` pour plus d'informations.
